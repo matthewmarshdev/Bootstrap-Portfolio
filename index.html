@@ -2,49 +2,145 @@
 <html>
 
 <head>
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js" integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ" crossorigin="anonymous"></script>
-    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js" integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh" crossorigin="anonymous"></script>
-    <title>BOOTSTRAP PORT</title>
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <!-- Optional theme -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+    <title>BootStrap</title>
+    <style type="text/css">
+    h1 {
+        font-size: 25px;
+    }
+
+    #footie {
+        text-align: center;
+        background-color: grey;
+        border-top: blue;
+        border-width: 2px;
+        font-size: 30px
+    }
+
+    img{
+      height: 150px;
+      width: 150px;
+    }
+
+    h1 {
+        font-family: sans-serif;
+        font-size: 30px;
+    }
+
+    #navcolor{
+      background-color: pink;
+      opacity: 15;
+    }
+
+    #pancolor{
+      background-color: pink;
+      opacity: 15;
+    }
+    
+    </style>
 </head>
 
 <body>
-		<nav class="navbar navbar-expand-lg navbar-light bg-light">
-  <a class="navbar-brand" href="#">Matthew Marsh </a>
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon"></span>
-  </button>
+    <nav class="navbar navbar-default">
+        <div class="container-fluid" id="navcolor">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="#">Matthew Marsh</a>
+            </div>
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right">
+                    <li><a href="#">About</a></li>
+                    <li><a href="#">Portfolio</a></li>
+                    <li><a href="#">Contact</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8">
+                <h1>About Me</h1>
+            </div>
+            <div class="col-md-4" >
+                <div class="panel panel-default">
+                    <div class="panel-heading">Panel heading without title</div>
+                    <div class="panel-body">
+                        Panel content
+                    </div>
+                </div>
+            </div>
+        </div>
 
-  <div class="collapse navbar-collapse" id="navbarSupportedContent">
-    <ul class="navbar-nav mr-auto">
-     
-      <li class="nav-item">
-        <a class="nav-link" href="#">Portfolio</a>
-      </li>
-      
-      <li class="nav-item">
-        <a class="nav-link disabled" href="#">Disabled</a>
-      </li>
-    </ul>
-    <form class="form-inline my-2 my-lg-0">
-      <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
-      <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
-    </form>
-  </div>
-</nav>
-		
+        <div class="row">
+          <div class="col-md-2">       
+              <img src="profie_pic.png.jpg">    
+          </div>
+
+          <div class="col-md-6">  
+              <p>gif Patrick Stewart unidan bacon hot robot narwhal pooch links Nic Cage subscribe switcheroo cats upvote in-game Obama bestof drone subreddit sauce ermahgerd about wat facepalm TIL content fallout OP sticky downvote actually unexpected reddiquette Morpheus MRW troll ipsum new kitty lose bamboozle Milhouse skyrim animorphs rage legit banana IRL vega the batman repost DAE you are doing that too much nsfw karma Zoidberg reddit post Bernie Sanders gold</p>         
+          </div>
+
+          <div class="col-md-4">            
+          </div>
+
+        </div>
+    </div>
 
 
-
-
-
-
-
-
-
-
-
+    <!--div class="container">
+        <div class="row" id="footie">
+            WHAT YOU WANT TO KNOW
+        </div>
+        </br>
+        <div class="row h1">Header</div>
+        </br>
+        </br>
+        <div class="row">
+            <div class="col-md-3">It's Putin animorphs Nic Cage internets news TIL gif the batman MRW srsly. Obama guidelines Nic Cage pepe lose kitty haiku hot. Wiki bestof win hot pooch aliens upvote self fallout unexpected ipsum. Lose kitty Morpheus </div>
+            <div class="col-md-3">It's Putin animorphs Nic Cage internets news TIL gif the batman MRW srsly. Obama guidelines Nic Cage pepe lose kitty haiku hot. Wiki bestof win hot pooch aliens upvote self fallout unexpected ipsum. Lose kitty Morpheus sweet Nic Cage </div>
+            <div class="col-md-3">It's Putin animorphs Nic Cage internets news TIL gif the batman MRW srsly. Obama guidelines Nic Cage pepe lose kitty haiku hot. Wiki bestof win hot pooch aliens upvote self fallout unexpected ipsum. Lose kitty Morpheus sweet Nic Cage </div>
+        </div>
+        </br>
+        </br>
+        </br>
+        <div class="row" id="footie">
+            Some more about bacon !!!!!!
+        </div>
+        </br>
+        <div class="row">
+            <div class="col-sm-2">Reddiquette OP troll in-game reddit repost downvote TIL Patrick Stewart. Facepalm Wonka bacon skyrim karma meme sanic front page. Fallout hot Putin content ermahgerd reddiquette pepe Wonka Nic Cage sanic. It's reddit Patrick Stewart Milhouse switcheroo IRL ethics sticky. Obama you are doing that too much kitty aliens narwhal n64 Nic Cage pooch. Bernie Sanders subreddit skyrim aliens content subscribe nsfw rising Yao n64 post. </div>
+            <div class="col-sm-2">Reddiquette OP troll in-game reddit repost downvote TIL Patrick Stewart. Facepalm Wonka bacon skyrim karma meme sanic front page. Fallout hot Putin content ermahgerd reddiquette pepe Wonka Nic Cage sanic. It's reddit Patrick Stewart Milhouse switcheroo IRL ethics sticky. Obama you are doing that too much kitty aliens narwhal n64 Nic Cage pooch. Bernie Sanders subreddit skyrim aliens content subscribe nsfw rising Yao n64 post. </div>
+            <div class="col-sm-2">Reddiquette OP troll in-game reddit repost downvote TIL Patrick Stewart. Facepalm Wonka bacon skyrim karma meme sanic front page. Fallout hot Putin content ermahgerd reddiquette pepe Wonka Nic Cage sanic. It's reddit Patrick Stewart Milhouse switcheroo IRL ethics sticky. Obama you are doing that too much kitty aliens narwhal n64 Nic Cage pooch. Bernie Sanders subreddit skyrim aliens content subscribe nsfw rising Yao n64 post. </div>
+            <div class="col-sm-2">Reddiquette OP troll in-game reddit repost downvote TIL Patrick Stewart. Facepalm Wonka bacon skyrim karma meme sanic front page. Fallout hot Putin content ermahgerd reddiquette pepe Wonka Nic Cage sanic. It's reddit Patrick Stewart Milhouse switcheroo IRL ethics sticky. Obama you are doing that too much kitty aliens narwhal n64 Nic Cage pooch. Bernie Sanders subreddit skyrim aliens content subscribe nsfw rising Yao n64 post. </div>
+            <div class="col-sm-2">Reddiquette OP troll in-game reddit repost downvote TIL Patrick Stewart. Facepalm Wonka bacon skyrim karma meme sanic front page. Fallout hot Putin content ermahgerd reddiquette pepe Wonka Nic Cage sanic. It's reddit Patrick Stewart Milhouse switcheroo IRL ethics sticky. Obama you are doing that too much kitty aliens narwhal n64 Nic Cage pooch. Bernie Sanders subreddit skyrim aliens content subscribe nsfw rising Yao n64 post. </div>
+            <div class="col-sm-2">Reddiquette OP troll in-game reddit repost downvote TIL Patrick Stewart. Facepalm Wonka bacon skyrim karma meme sanic front page. Fallout hot Putin content ermahgerd reddiquette pepe Wonka Nic Cage sanic. It's reddit Patrick Stewart Milhouse switcheroo IRL ethics sticky. Obama you are doing that too much kitty aliens narwhal n64 Nic Cage pooch. Bernie Sanders subreddit skyrim aliens content subscribe nsfw rising Yao n64 post. </div>
+        </div>
+        </br>
+        </br>
+        </br>
+        <div class="row" id="footie">
+            Some more about bacon
+        </div>
+        </br>
+        <div class="row">
+            <div class="col-md-6">Facepalm post in-game troll sauce IRL OP. Repost subscribe it's IRL Nic Cage robot Wonka ermahgerd dank. Original DAE aliens content TL;DR it's subreddit. The batman gold it's upvote sweet subreddit Putin journalism n64 actually dank. Meme bestof srsly content you are doing that too much legit cats sweet. In-game srsly sweet pooch bamboozle Carl Sagan content links troll. Post kitty journalism sauce aww vega you are doing that too much n64 links Putin neckbeard. Reddiquette Wonka original TIL wat Zoidberg nsfw meme. Gif links hot MRW troll self Patrick Stewart nsfw Putin. Kitty lose meme switcheroo pepe guidelines Yao. TIL news in-game fallout OP nsfw sticky. Drone MRW Putin skyrim TL;DR aliens post win subscribe news sauce. New links you are doing that too much guidelines haiku conspiracy front page DAE. Sauce links downvote haiku hot switcheroo animorphs Morpheus TIL legit. Gilded ipsum wiki downvote cats hot Carl Sagan dank ermahgerd TL;DR meme. Repost cats switcheroo sweet sticky Zoidberg Carl Sagan robot Milhouse Nic Cage. Zoidberg bestof nsfw gif cats robot actually. Aliens guidelines hot ipsum neckbeard Putin reddit the batman sweet troll. Bamboozle post journalism haiku OP in-game bestof. Gilded links troll sauce ethics bacon bestof unexpected vega lose repost. Downvote pepe Morpheus banana gold meme Bernie Sanders TL;DR about narwhal. Gold wat original wiki internets nanobot switcheroo MRW fallout IRL haiku. Subscribe Zoidberg bacon sanic Morpheus front page meme actually TL;DR news. Patrick Stewart cats actually Milhouse pooch haiku unidan. Actually Patrick Stewart Carl Sagan Putin troll unexpected pepe srsly TL;DR robot. </div>
+            <div class="col-md-6">Facepalm post in-game troll sauce IRL OP. Repost subscribe it's IRL Nic Cage robot Wonka ermahgerd dank. Original DAE aliens content TL;DR it's subreddit. The batman gold it's upvote sweet subreddit Putin journalism n64 actually dank. Meme bestof srsly content you are doing that too much legit cats sweet. In-game srsly sweet pooch bamboozle Carl Sagan content links troll. Post kitty journalism sauce aww vega you are doing that too much n64 links Putin neckbeard. Reddiquette Wonka original TIL wat Zoidberg nsfw meme. Gif links hot MRW troll self Patrick Stewart nsfw Putin. Kitty lose meme switcheroo pepe guidelines Yao. TIL news in-game fallout OP nsfw sticky. Drone MRW Putin skyrim TL;DR aliens post win subscribe news sauce. New links you are doing that too much guidelines haiku conspiracy front page DAE. Sauce links downvote haiku hot switcheroo animorphs Morpheus TIL legit. Gilded ipsum wiki downvote cats hot Carl Sagan dank ermahgerd TL;DR meme. Repost cats switcheroo sweet sticky Zoidberg Carl Sagan robot Milhouse Nic Cage. Zoidberg bestof nsfw gif cats robot actually. Aliens guidelines hot ipsum neckbeard Putin reddit the batman sweet troll. Bamboozle post journalism haiku OP in-game bestof. Gilded links troll sauce ethics bacon bestof unexpected vega lose repost. Downvote pepe Morpheus banana gold meme Bernie Sanders TL;DR about narwhal. Gold wat original wiki internets nanobot switcheroo MRW fallout IRL haiku. Subscribe Zoidberg bacon sanic Morpheus front page meme actually TL;DR news. Patrick Stewart cats actually Milhouse pooch haiku unidan. Actually Patrick Stewart Carl Sagan Putin troll unexpected pepe srsly TL;DR robot. </div>
+        </div>
+        <div class="row" id="footie">
+            Ex shoulder tri-tip shankle sirloin cow.
+        </div>
 </body>
 
 </html>

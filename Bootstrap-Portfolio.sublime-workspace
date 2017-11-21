@@ -1,0 +1,380 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"col",
+				"col-md-3"
+			],
+			[
+				"bord",
+				"border-top"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"l",
+				"left"
+			],
+			[
+				"padding",
+				"padding-right"
+			],
+			[
+				"flex-",
+				"flex-wrap"
+			],
+			[
+				"list-sty",
+				"list-style-type"
+			],
+			[
+				"r",
+				"relative"
+			],
+			[
+				"im",
+				"images"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"d",
+				"dotted"
+			],
+			[
+				"border-s",
+				"border-style"
+			],
+			[
+				"positio",
+				"position"
+			],
+			[
+				"obj",
+				"object-position"
+			],
+			[
+				"position",
+				"object-position"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"s",
+				"section\tTag"
+			],
+			[
+				"siz",
+				"font-size"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"i",
+				"id\tAttr"
+			],
+			[
+				"con",
+				"contact-info"
+			],
+			[
+				"c",
+				"container"
+			],
+			[
+				"border",
+				"border-width"
+			],
+			[
+				"h",
+				"h2\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ip",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 412.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/marshm/Desktop/GitHub/Bootstrap-Portfolio"
+	],
+	"file_history":
+	[
+		"/C/Users/marshm/Desktop/activity.html",
+		"/C/Users/marshm/Desktop/bootcamp_Class_Repo/11-16-2017-DENVER-Class-Repository-FSF-2/Class-Content/02-css-bootstrap/01-Activities/17-InstructorMedia/media-basic.html",
+		"/C/Users/marshm/Desktop/bootcamp_Class_Repo/11-16-2017-DENVER-Class-Repository-FSF-2/Class-Content/02-css-bootstrap/01-Activities/17-InstructorMedia/css/style.css",
+		"/C/Users/marshm/Desktop/url.htm",
+		"/C/Users/marshm/Desktop/GitHub/basic_portfolio/basic_portfolio/portfolio.html",
+		"/C/Users/marshm/Desktop/GitHub/basic_portfolio/basic_portfolio/contact.html",
+		"/C/Users/marshm/Desktop/GitHub/basic_portfolio/basic_portfolio/index.html",
+		"/C/Users/marshm/AppData/Roaming/Sublime Text 3/Packages/BracketGuard/BracketGuard.sublime-settings",
+		"/C/Users/marshm/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc.defaults.json",
+		"/C/Users/marshm/Desktop/GitHub/basic_portfolio/basic_portfolio/assets/css/style.css",
+		"/C/Users/marshm/Desktop/Boilerplates/bootstrap-3.3.7-dist/js/bootstrap.js",
+		"/C/Users/marshm/Desktop/bootcamp_Class_Repo/11-16-2017-DENVER-Class-Repository-FSF-2/Class-Content/02-css-bootstrap/01-Activities/11-BootstrapDemo/goofin.html",
+		"/C/Users/marshm/Desktop/bootcamp_Class_Repo/11-16-2017-DENVER-Class-Repository-FSF-2/Class-Content/02-css-bootstrap/01-Activities/10-WheresCSS/bootstrap-powered.html",
+		"/C/Users/marshm/Desktop/bootcamp_Class_Repo/11-16-2017-DENVER-Class-Repository-FSF-2/Class-Content/02-css-bootstrap/01-Activities/07-CSSTypography/activity.html",
+		"/C/Users/marshm/Desktop/bootcamp_Class_Repo/11-16-2017-DENVER-Class-Repository-FSF-2/Class-Content/02-css-bootstrap/01-Activities/07-CSSTypography/style.css",
+		"/C/Users/marshm/Desktop/bootcamp_Class_Repo/11-16-2017-DENVER-Class-Repository-FSF-2/Class-Content/02-css-bootstrap/01-Activities/07-CSSTypography/bootstrap.css",
+		"/C/Users/marshm/Desktop/Boilerplates/responsivehtml.html",
+		"/C/Users/marshm/Desktop/bootstrap-3.3.7-dist/css/bootstrap.css.map",
+		"/C/Users/marshm/Desktop/bootstrap-3.3.7-dist/css/bootstrap.css",
+		"/C/Users/marshm/Desktop/personal/index.html",
+		"/C/Users/marshm/Desktop/GitHub/basic_portfolio/basic_portfolio/assets/images/profie_pic.png.jpg",
+		"/C/Users/marshm/Desktop/bootcamp_Class_Repo/11-16-2017-DENVER-Class-Repository-FSF-2/Class-Content/02-css-bootstrap/01-Activities/03-MultipleCSS/1_CSS_File/html-bio-with-css.html",
+		"/C/Users/marshm/Desktop/bootcamp_Class_Repo/11-16-2017-DENVER-Class-Repository-FSF-2/Class-Content/02-css-bootstrap/01-Activities/03-MultipleCSS/2_CSS_Files/html-bio-with-css.html",
+		"/C/Users/marshm/Desktop/GitHub/basic_portfolio/basic_portfolio/assets/css/reset.css",
+		"/C/Users/marshm/Desktop/GitHub/Basic-Portfolio/Basic-Portfolio/index.html",
+		"/C/Users/marshm/Desktop/GitHub/Basic-Portfolio/portfolio.html",
+		"/C/Users/marshm/Desktop/GitHub/Basic-Portfolio/contact.html",
+		"/C/Users/marshm/Desktop/GitHub/Basic-Portfolio/index.html",
+		"/C/Users/marshm/Desktop/GitHub/Basic-Portfolio/assets/css/style.css",
+		"/C/Users/marshm/Desktop/GitHub/Homework/script.js",
+		"/C/Users/marshm/Desktop/GitHub/Homework/style.css",
+		"/C/Users/marshm/Desktop/GitHub/Homework/index.html",
+		"/C/Users/marshm/AppData/Local/Programs/Git/mingw64/share/doc/git-doc/git-push.html",
+		"/C/Users/marshm/Desktop/GitHub/week_1/week1/index.html",
+		"/C/Users/marshm/Desktop/Bootcamp/Week_1_MAM/week1_day3/Positioning/positionindex.html",
+		"/C/Users/marshm/Desktop/Bootcamp/Week_1_MAM/week1_day3/Positioning/positioncss.css",
+		"/C/Users/marshm/Desktop/week1_day3/index.html",
+		"/C/Users/marshm/Desktop/week1_day3/stylesolved.css",
+		"/C/Users/marshm/Desktop/week1_day3/style.css",
+		"/C/Users/marshm/Desktop/Unsolved/RelativePaths_4/HTML/html-bio.html",
+		"/C/Users/marshm/Desktop/Unsolved/RelativePaths_3/html-bio.html",
+		"/C/Users/marshm/Desktop/Unsolved/RelativePaths_2/html-bio.html",
+		"/C/Users/marshm/Desktop/Unsolved/RelativePaths_1/style.css",
+		"/C/Users/marshm/Desktop/Unsolved/RelativePaths_1/html-bio.html",
+		"/C/Users/marshm/Desktop/Boilerplates/boilerplatecss.css",
+		"/C/Users/marshm/Desktop/Bootcamp/Week_1_MAM/week1-day2-html-css/In Class Assignment/style.css",
+		"/C/Users/marshm/Desktop/Bootcamp/Week_1_MAM/week1-day2-html-css/In Class Assignment/Basic CSS Example.html",
+		"/C/Users/marshm/Desktop/mmphotoportfolio.html",
+		"/C/Users/marshm/Desktop/mmphotocss.css",
+		"/C/Users/marshm/Desktop/Bootcamp/Week_1_MAM/week1-day2-html-css/In Class Assignment/CSS Stylesheets.html",
+		"/C/Users/marshm/Desktop/Bootcamp/Week_1_MAM/week1-day2-html-css/student_bio_style.css",
+		"/C/Users/marshm/Desktop/Bootcamp/Week_1_MAM/week1-day2-html-css/student_bio.html",
+		"/C/Users/marshm/Desktop/Bootcamp/Week_1_MAM/week1-day2-html-css/student_bio_script.js",
+		"/C/Users/marshm/Desktop/code_110617/my site.html",
+		"/C/Users/marshm/Desktop/code_110617/first site",
+		"/C/Users/marshm/Desktop/code_110617/my site",
+		"/C/Users/marshm/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/marshm/AppData/Roaming/Sublime Text 3/Packages/User/Emmet.sublime-settings",
+		"/C/Users/marshm/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/marshm/Desktop/Javascript Work/index.html",
+		"/C/Users/marshm/Desktop/Javascript Work/javascript.js",
+		"/C/Users/marshm/Desktop/My First Website/My_First_Website.html",
+		"/C/Users/marshm/Desktop/Second Site/index.html",
+		"/C/Users/marshm/Desktop/Broken_and_Working_Code/BrokenCode/style.css",
+		"/C/Users/marshm/Desktop/Broken_and_Working_Code/BrokenCode/logic.js",
+		"/C/Users/marshm/Desktop/Broken_and_Working_Code/BrokenCode/BooTheDog.html",
+		"/C/Users/marshm/Desktop/Broken_and_Working_Code/WorkingCode/style.css"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Bootstrap-Portfolio.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 219.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
