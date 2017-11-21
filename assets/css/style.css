@@ -1,0 +1,53 @@
+ .footer {
+	position: absolute;
+	bottom: 0;
+	clear: both;
+	overflow: auto;
+	width: 100%;
+	height: 100px;
+	background-color: #666666;	
+	color: lightgrey;
+	text-align: center;
+	text-decoration: none;
+	vertical-align: center;
+	color: white
+	}
+
+    h1 {
+        font-size: 25px;
+    }
+
+    #footie {
+        text-align: center;
+        background-color: grey;
+        border-top: blue;
+        border-width: 2px;
+        font-size: 30px
+    }
+
+    img{
+      height: 150px;
+      width: 150px;
+    }
+
+    h1 {
+        font-family: sans-serif;
+        font-size: 30px;
+    }
+
+    #navhelper{
+      background-color: lightblue;
+      font-family: serif;
+      color: white;
+      opacity: 15;
+      font-size: 25px;
+      border-bottom: 2px;
+      border-color: darkgrey;
+
+    }
+
+    #pancolor{
+      background-color: pink;
+      opacity: 15;
+    }
+    
