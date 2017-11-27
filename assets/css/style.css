@@ -2,7 +2,7 @@ body html {
     width: 100%;
     font-size: 18px;
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
-    background-image:url("../images/round.png");
+    background-image: url("../images/round.png");
 }
 
 aside {
@@ -17,8 +17,8 @@ aside {
     box-shadow: 5px 5px 5px lightgrey;
 }
 
-.btn{
-  background-color: #4aaaa5;
+.btn {
+    background-color: #4aaaa5;
 }
 
 section {
@@ -69,8 +69,9 @@ footer {
     float: right;
 }
 
-.linkbox{
-  margin-bottom: 20px;
+.linkbox {
+    margin-bottom: 20px;
+    margin-top: 25px;
 }
 
 
@@ -83,14 +84,26 @@ footer {
 }
 
 .profile {
-  margin-bottom: 25px;
+    width: 100px;
+    margin-bottom: 25px;
+    height: 200px;
+    width: 150px;
+    float: left;
+}
+
+#topright {
+    margin-top: 52px;
+    margin-bottom: 25px;
     height: 200px;
     width: 150px;
     float: left;
 }
 
 
-
+.picContainer {
+    position: relative;
+    text-align: center;
+}
 
 
 
@@ -108,6 +121,24 @@ footer {
     font-family: 'Georgia', Times, Times New Roman, serif;
     font-size: 24px;
     color: white;
+    border-radius: 20px;
+}
+
+.portfolioText {
+    position: absolute;
+    bottom: 0;
+    float: left;
+    font-weight: 700;
+    text-align: center;
+    background-color: #4aaaa5;
+    color: white;
+    height: 60px;
+    width: 210px;
+    padding-top: 14px;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    font-size: 24px;
+    color: white;
+    border-radius: 20px;
 }
 
 #profilePic {
