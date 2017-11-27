@@ -4,12 +4,24 @@
 		"selected_items":
 		[
 			[
-				"margin",
-				"margin-left"
-			],
-			[
 				"font",
 				"font-family"
+			],
+			[
+				"nav",
+				"navhelper"
+			],
+			[
+				"border",
+				"border-color"
+			],
+			[
+				"bord",
+				"border-bottom"
+			],
+			[
+				"margin",
+				"margin-left"
 			],
 			[
 				"op",
@@ -18,10 +30,6 @@
 			[
 				"col",
 				"col-md-3"
-			],
-			[
-				"bord",
-				"border-top"
 			],
 			[
 				"di",
@@ -124,10 +132,6 @@
 				"container"
 			],
 			[
-				"border",
-				"border-width"
-			],
-			[
 				"h",
 				"h2\tTag"
 			]
@@ -189,6 +193,9 @@
 	],
 	"file_history":
 	[
+		"/C/Users/marshm/Desktop/GitHub/Bootstrap-Portfolio/index.html",
+		"/C/Users/marshm/Desktop/GitHub/Bootstrap-Portfolio/css/style.css",
+		"/C/Users/marshm/Desktop/demo_repo/test.txt",
 		"/C/Users/marshm/Desktop/activity.html",
 		"/C/Users/marshm/Desktop/bootcamp_Class_Repo/11-16-2017-DENVER-Class-Repository-FSF-2/Class-Content/02-css-bootstrap/01-Activities/17-InstructorMedia/media-basic.html",
 		"/C/Users/marshm/Desktop/bootcamp_Class_Repo/11-16-2017-DENVER-Class-Repository-FSF-2/Class-Content/02-css-bootstrap/01-Activities/17-InstructorMedia/css/style.css",
