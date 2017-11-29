@@ -88,7 +88,7 @@ footer {
     margin-bottom: 25px;
     height: 200px;
     width: 150px;
-    float: left;
+    
 }
 
 #topright {
@@ -161,5 +161,9 @@ footer {
 }
 
 .helpAlign{
-    margin-top: 30px;
+    margin-top: 20px;
+}
+
+#slidebox{
+    margin-left: 30px;
 }
